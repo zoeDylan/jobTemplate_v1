@@ -1,5 +1,7 @@
 # jobTemplate V1 (项目关闭，不再更新)
 
+# 使用新功能，移步：[V2](https://github.com/zoeDylan/jobTemplate)
+
 ## 导航
 
 > [项目说明](#项目说明 "查看项目说明")
